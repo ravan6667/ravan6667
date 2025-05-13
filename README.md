@@ -1,4 +1,4 @@
-## Hi there 👋 # My name is Pourab Das
+## Hi there 👋  My name is Pourab Das
 
 # 💫 About Me:
 🔭 I’m currently working on strengthening my skills in offensive and defensive cybersecurity, focusing on real-world exploitation scenarios.<br>👯 I’m looking to collaborate on open-source cybersecurity tools, ethical hacking projects, and CTF challenges.<br>🤝 I’m looking for help with expanding my knowledge in advanced penetration testing and cloud security.<br>🌱 I’m currently learning deeper concepts in digital forensics, malware analysis, and threat hunting.<br>💬 Ask me about Kali Linux, digital forensics workflows, WiFi security testing, CCTV vulnerability research, and Linux-based exploit development.<br>⚡ Fun fact: I’ve successfully conducted ethical assessments on WiFi networks and CCTV systems, and I occasionally take on bug bounty hunting as a freelancer!
